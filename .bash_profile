@@ -20,4 +20,5 @@ source "$BASH_IT"/bash_it.sh
 # Go Config
 export GOPATH=$HOME/Coding/go  
 
+alias ll='ls -al'
 alias brewup='brew update && brew upgrade && brew cask upgrade --greedy'
